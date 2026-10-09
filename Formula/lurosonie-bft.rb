@@ -4,7 +4,7 @@ class LurosonieBft < Formula
   license "Proprietary"
   version "1.1.0"
   url "https://github.com/vylte-finuka/homebrew-lurosonie/releases/download/v1.1.0/lurosonie-bft-1.1.0.tar.gz"
-  sha256 "e3c737fbb402f76b0e37445d4a2ca8db78bbd5502af264a8ca0a65b762cc9531"
+  sha256 "61c9dac648bd74a4ffe76d954324b0c7809144833502030a87d8f2c18e4efa5c"
   depends_on "openssl@3" => :recommended
 
   def install
